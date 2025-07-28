@@ -1,0 +1,25 @@
+# Visual Studio cache and temp files
+*.obj
+*.log
+*.user
+*.suo
+*.tmp
+*.vspscc
+*.vssscc
+*.cache
+*.pdb
+
+# Build results
+[Bb]in/
+[Oo]bj/
+
+# Visual Studio folder
+.vs/
+
+# NuGet Packages
+*.nupkg
+packages/
+
+# Other
+*.DS_Store
+Thumbs.db
